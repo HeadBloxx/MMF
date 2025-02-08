@@ -14,7 +14,7 @@ score += 1
 print(score)
 
 # f-strings
-print("Upir scpre is " + str(score))
+print("Your score is " + str(score))
 
 score = 0
 height = 1.8
